@@ -233,7 +233,7 @@ export default function Home() {
               Crafting fast, responsive, and scalable apps with a touch of creativity and a lot of code.
             </p>
             <a
-              href="/MYresume.pdf"
+              href="/Nikita resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-6 bg-pink-500 hover:bg-pink-600 text-white py-2 px-6 rounded-full font-semibold"
